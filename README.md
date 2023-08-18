@@ -8,7 +8,7 @@ command-line or GUI-based application using Python,allowing.
 
 It is a simple calculator to Perform the calculation and display the result.
 
-************** TASK-3 Password Generator ******************
+*************** TASK-3 Password Generator ******************
 
 User Input: Prompt the user to specify the desired length of the password.
 Generate Password: Use a combination of random characters to generate a password of the specified length.
